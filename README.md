@@ -9,7 +9,6 @@
 
 ## start
 > npm install
-
 > npm start
 
 ## ScreenShot
