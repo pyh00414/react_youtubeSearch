@@ -4,8 +4,8 @@
 
 ## 개발환경
 * react: 16.3.2
-* youtube-api-search": 0.0.5
-* odash": ^3.10.1
+* youtube-api-search: 0.0.5
+* lodash: ^3.10.1
 
 ## start
 * npm install
