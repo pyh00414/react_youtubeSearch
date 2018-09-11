@@ -1,6 +1,6 @@
 # youtubeSearch
 
-### tarted
+### start
 
 > npm install
 > npm start
