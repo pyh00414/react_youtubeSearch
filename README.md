@@ -2,6 +2,11 @@
 
 * 유튜브 동영상을 조회할 수 있는 서비스
 
+## 개발환경
+* react: 16.3.2
+* youtube-api-search": 0.0.5
+* odash": ^3.10.1
+
 ## start
 > npm install
 
